@@ -17,6 +17,10 @@
         Marcus Leturiondo
     </author>
     <icon src="imagens/icon.png" />
-    <gap:splash />
+    <gap:splash src="imagens/splash.png" />
+
+    <preferences name="orientation" value="portrait"/>
+    <preferences name="fullscreen" value="true"/>
+    <gap:platform name="android" />
 
 </widget>
